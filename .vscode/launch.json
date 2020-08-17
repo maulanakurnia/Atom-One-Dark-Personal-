@@ -9,6 +9,10 @@
                 "--extensionDevelopmentPath=${workspaceFolder}"
             ],
             "name": "Launch Extension",
+            "outFiles": [
+                "${workspaceFolder}/out/**/*.js"
+            ],
+            "preLaunchTask": "npm",
             "request": "launch",
             "runtimeExecutable": "${execPath}",
             "type": "pwa-extensionHost"
