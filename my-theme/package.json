@@ -3,6 +3,7 @@
     "displayName": "dark theme",
     "description": "inspired from atom one dark",
     "version": "0.0.1",
+    "author": "Mufrad Mabni",
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -14,7 +15,7 @@
             {
                 "label": "test",
                 "uiTheme": "vs-dark",
-                "path": "./themes/test-color-theme.json"
+                "path": "./themes/color-theme.json"
             }
         ]
     }
