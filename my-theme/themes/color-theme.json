@@ -725,15 +725,13 @@
 		{
 			"scope": "entity.other.attribute-name.id",
 			"settings": {
-				"foreground": "#61AFEF",
-				"fontStyle": "normal"
+				"foreground": "#61AFEF"
 			}
 		},
 		{
 			"scope": "entity.other.attribute-name.class.css",
 			"settings": {
 				"foreground": "#D19A66",
-				"fontStyle": "normal"
 			}
 		},
 		{
