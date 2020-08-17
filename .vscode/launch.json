@@ -13,6 +13,5 @@
             "runtimeExecutable": "${execPath}",
             "type": "pwa-extensionHost"
         }
-
     ]
 }
