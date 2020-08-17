@@ -1,9 +1,20 @@
 {
-    "name": "personal-theme-dark",
-    "displayName": "dark theme",
+    "name": "modern-dark-theme",
+    "displayName": "modern dark theme",
     "description": "inspired from atom one dark",
     "version": "0.0.1",
     "author": "Mufrad Mabni",
+    "publisher": "MufradMabni",
+    "homepage": "https://github.com/maulanakurnia/VSC-Atom-One-Dark",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/maulanakurnia/VSC-Atom-One-Dark"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "atom"
+    ],
     "engines": {
         "vscode": "^1.48.0"
     },
