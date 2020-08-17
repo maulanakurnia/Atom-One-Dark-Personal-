@@ -1,4 +1,4 @@
-# Atom One Dark - Dark
+# Modern Theme Dark
 This is the README for your extension "modern-dark-theme"
 
 ### Install Instructions
@@ -13,11 +13,11 @@ Install via Extension Marketplace
 
 -   License: GPLv3
 -   Version: 0.0.1
--   Extension URI: https://github.com/maulanakurnia/VSC-Atom-One-Dark/
+-   Extension URI: https://github.com/maulanakurnia/Modern-Dark-Theme/
 
 ## Known Issues
 
-Known issues at avaialble at the [Github Repo](https://github.com/maulanakurnia/VSC-Atom-One-Dark/issues)
+Known issues at avaialble at the [Github Repo](https://github.com/maulanakurnia/Modern-Dark-Theme/issues)
 
 -----------------------------------------------------------------------------------------------------------
 
